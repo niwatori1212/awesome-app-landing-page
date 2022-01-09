@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: 山ショップ # REQUIRED - Enter your app name
+  ios_id: 1600786902 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: net.paasmallfactory.mountaineering_shops # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
